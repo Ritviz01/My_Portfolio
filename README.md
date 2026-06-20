@@ -122,5 +122,5 @@ This project is open for reference and learning. Please don't reuse personal con
 
 **Ritviz Tiwari**
 - GitHub: [@Ritviz01](https://github.com/Ritviz01)
-- LinkedIn: [ritviz-tiwari](https://www.linkedin.com/in/ritviz-tiwari-a26111289/)
+- LinkedIn: [Ritviz Tiwari](https://www.linkedin.com/in/ritviz-tiwari-a26111289/)
 - Email: ritviztiwari07@gmail.com
